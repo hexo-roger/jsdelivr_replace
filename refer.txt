@@ -35,12 +35,12 @@ https://cdn.jsdelivr.net/gh/hexo-roger/jsdelivr_replace/npm/moment@2.18.1/min/mo
 
 https://cdn.jsdelivr.net/npm/sweetalert2@7.25.6/dist/sweetalert2.all.min.js
 
-https://cdn.jsdelivr.net/npm/sweetalert2@7.25.6/dist/sweetalert2.all.min.js
+https://cdn.jsdelivr.net/gh/hexo-roger/jsdelivr_replace/npm/sweetalert2@7.25.6/dist/sweetalert2.all.min.js
 
 9
 https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
 
-https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
+https://cdn.jsdelivr.net/gh/hexo-roger/jsdelivr_replace/npm/clipboard@2/dist/clipboard.min.js
 
 10
 
